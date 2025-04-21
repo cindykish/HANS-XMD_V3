@@ -9,7 +9,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "HansTz&ZDEhiISI#7_DjTEg432G6j_G4ueaL0m5InvTrNid8fcIQdXPrzCo"
     },
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
@@ -104,7 +104,7 @@
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_REACT": {
       "description": "Make it true if you want react on every message.",
