@@ -9,7 +9,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "HansTz&YflShbjb#3947QN5kv0uuNZ8gt6ATkk0FhXQLbFvblKQg9K7D0Qc"
     },
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
@@ -69,7 +69,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255753668403"
+      "value": "254106809116"
     },
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
